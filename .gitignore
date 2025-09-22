@@ -38,4 +38,5 @@ htmlcov/
 
 # Others
 *.sqlite3
-*.db
+*.db.env
+.env
