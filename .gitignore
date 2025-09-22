@@ -1,0 +1,41 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+.env/
+
+# Logs
+*.log
+
+# Data folders (if large or sensitive)
+data/
+chromadb/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# Pytest / coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Others
+*.sqlite3
+*.db
