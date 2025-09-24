@@ -212,7 +212,7 @@ graph TD
 * Batch processing multiple playlists
 * Use custom embeddings
 
-## Acknowledgments
+## Built With
 
 * [Ollama](https://ollama.ai)
 * [Groq](https://groq.com)
