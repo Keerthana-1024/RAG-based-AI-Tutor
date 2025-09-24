@@ -207,10 +207,9 @@ graph TD
     E --> F[streamlit_app.py]
 ```
 
-## Advanced Usage
+## Possible Extensions
 
 * Batch processing multiple playlists
-* API integration in applications
 * Use custom embeddings
 
 ## Acknowledgments
